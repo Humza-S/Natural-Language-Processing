@@ -1,4 +1,5 @@
-# assignment2
+Hidden Markov Models
 
-Starter code in this repo is only for ref.
-You can choose to use it or not (according to the requirements in the PDF).
+The files in here showcase the code and data used to implement the Hidden Markov Models.
+
+The report highlights the methodology used by my class partner and I.
