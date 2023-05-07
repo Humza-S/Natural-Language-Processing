@@ -1,0 +1,23 @@
+python main.py
+python evaluate.py --predicted prediction.csv --development data/train_y.csv
+
+python main.py
+python evaluate.py --predicted prediction.csv --development data/dev_y.csv
+
+python main.py
+python evaluate.py --predicted prediction.csv --development data/trial_y.csv
+
+
+python main.py
+python evaluate2.py --predicted prediction.csv --development data/dev_y.csv --confusion
+
+python main.py
+python evaluate2.py --predicted prediction.csv --development data/trial_y.csv --confusion
+
+
+python main_advanced.py
+python evaluate2.py --predicted prediction.csv --development data/trial_y.csv --confusion
+
+
+python main_advanced.py
+python evaluate2.py --predicted prediction.csv --development data/dev_y.csv --confusion
