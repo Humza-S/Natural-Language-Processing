@@ -1,0 +1,3 @@
+Named Entity Recognition
+
+The report showcases talks about the task of NER, data used, model and architecture, validation and inference procedure, unknown word handling, implementation. We then talk about our experiment and results and going into an error analysis.
